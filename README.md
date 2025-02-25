@@ -21,6 +21,8 @@ mpf
 
 ```
 Run Godot 
+
 Open project.godot
+
 Run the project
 
