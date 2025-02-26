@@ -2,10 +2,9 @@
 
 ## Running steps
 
-Install Godot
-
-Create and activate a python environnement
-
+- Install Godot
+- Create and activate a python environnement
+- Run this commands :
 ```shell
 pip install numpy
 
@@ -22,11 +21,9 @@ cd MPF-pinball-ZeDMD-example
 mpf
 
 ```
-Run Godot 
-
-Open project.godot
-
-Run the project
+- Run Godot
+  - Open project.godot
+  - Run the project
 
 
 ## How does it works ?
