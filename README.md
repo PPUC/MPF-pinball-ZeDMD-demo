@@ -1,4 +1,6 @@
-# MPF-pinball-ZeDMD-demo
+# MPF pinball ZeDMD demo
+
+## Running steps
 
 Install Godot
 
