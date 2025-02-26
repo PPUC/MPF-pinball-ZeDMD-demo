@@ -14,7 +14,7 @@ git checkout 0.80.x
 pip install -e .
 
 cd ..
-git clone https://github.com/PPUC/MPF-pinball-ZeDMD-example.git
+git clone https://github.com/PPUC/MPF-pinball-ZeDMD-demo.git
 
 cd MPF-pinball-ZeDMD-example
 
