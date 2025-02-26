@@ -32,7 +32,9 @@ mpf
 
 ## How does it works ?
 This work comes from this tutorial of Paradigm Tilt: 
+
 https://www.youtube.com/watch?v=rQqKG2Ie6KM
+
 https://www.youtube.com/watch?v=IO3U1SMZ5-A
 
 And from Anthony van Winkle post here : https://groups.google.com/g/mpf-users/c/eTe_1PEFQq4/m/Kl4Vp8FdBAAJ
