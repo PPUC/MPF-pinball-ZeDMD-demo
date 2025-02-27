@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="My First pinball"
+config/name="MPF-pinball-ZeDMD-demo"
 run/main_scene="res://addons/mpf-gmc/slides/window.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
 config/icon="res://icon.svg"
