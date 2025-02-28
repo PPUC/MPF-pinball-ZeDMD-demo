@@ -23,14 +23,22 @@ git clone https://github.com/PPUC/MPF-pinball-ZeDMD-demo.git
 
 cd MPF-pinball-ZeDMD-example
 
-mpf
-
 ```
 - Run Godot
   - Import project.godot
   - Accept the error message
 - Close and restart Godot
-  - Run the project
+  - Run the Godot project
+- Run MPF :
+
+```shell
+mpf
+```
+
+In order to launch mpf and Godot with only 1 command line :
+```shell
+mpf both -t -G /path-to-Godot/Godot_v4.3-stable_linux.x86_64 
+```
 
 
 ## How does it works ?
