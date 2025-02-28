@@ -27,7 +27,7 @@ mpf
 
 ```
 - Run Godot
-  - Open project.godot
+  - Import project.godot
   - Accept the error message
 - Close and restart Godot
   - Run the project
