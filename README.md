@@ -28,6 +28,8 @@ mpf
 ```
 - Run Godot
   - Open project.godot
+  - Accept the error message
+- Close and restart Godot
   - Run the project
 
 
