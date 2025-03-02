@@ -12,9 +12,13 @@ modes:
   - base
 
 hardware:
-  platform: virtual
-  rgb_dmd: zedmd
+  platform: zedmd
 
-rgb_dmds:
+zedmd:
+  width: 128
+  height: 32
+
+rgb_dmds:  
   zedmd:
-    brightness: .2
+    label: ZeDMD
+    hardware_brightness: .4
