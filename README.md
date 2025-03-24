@@ -1,5 +1,7 @@
 # MPF pinball ZeDMD demo
 
+** Currently : tested on Linux **
+
 ## Demo video
 https://www.youtube.com/shorts/OaKfcrMCkjA
 
