@@ -13,7 +13,7 @@ https://www.youtube.com/shorts/OaKfcrMCkjA
 ```shell
 pip install numpy
 
-git clone https://github.com/PPUC/mpf-zedmd.git
+git clone https://github.com/missionpinball/mpf.git
 cd mpf
 git checkout 0.80.x
 pip install -e .
