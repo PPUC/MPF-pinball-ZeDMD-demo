@@ -1,7 +1,5 @@
 # MPF pinball ZeDMD demo
 
-** Currently : tested on Linux **
-
 ## Demo video
 https://www.youtube.com/shorts/OaKfcrMCkjA
 
@@ -16,7 +14,7 @@ https://www.youtube.com/shorts/OaKfcrMCkjA
 pip install numpy
 
 git clone https://github.com/PPUC/mpf-zedmd.git
-cd mpf-zedmd
+cd mpf
 git checkout 0.80.x
 pip install -e .
 
